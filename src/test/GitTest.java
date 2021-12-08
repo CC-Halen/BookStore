@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("Hello git on hot-fix1");
         System.out.println("push test");
         System.out.println("push test ssh");
+        System.our.println("update online github");
     }
 }
